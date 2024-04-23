@@ -4,7 +4,7 @@
 ### References
 
 
-[Connect Python app to Azure SQL database](https://learn.microsoft.com/en-us/azure/azure-sql/database/azure-sql-python-quickstart?view=azuresql&tabs=windows%2Csql-inter
+[Connect Python app to Azure SQL database](https://learn.microsoft.com/en-us/azure/azure-sql/database/azure-sql-python-quickstart?view=azuresql&tabs=windows%2Csql-inter)
 
 [Python to cosmos db](https://github.com/Azure-Samples/cosmosdb-python-fastapi)
 
